@@ -17,12 +17,12 @@
 
 @media (prefers-color-scheme: light){
   :root{
-    --bg:#ffffff;
-    --text:#1a1a1a;
-    --muted:#4b5563;
-    --brand:#ff7b00;
-    --surface:#f3f4f6;
-    --focus:#b45309;
+    --bg: #0a0401;
+    --text: #e6edf3;
+    --muted: #c1ad9f;
+    --brand: #ff7b00;
+    --surface: #2f1a12;
+    --focus: #ffd76a;
   }
 }
 
